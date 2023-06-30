@@ -14,7 +14,7 @@ var config = {
   accessOnly: false,
 
   // Usar API v3 de Blogger.
-  useApiV3: false,
+  useApiV3: true,
   apiKey: "AIzaSyAVpjfcHOJTwGbWwMdEqM-8nedeV2L6qNU"
 }
 
