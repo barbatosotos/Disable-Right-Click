@@ -15,7 +15,7 @@ var config = {
 
   // Usar API v3 de Blogger.
   useApiV3: false,
-  apiKey: "BLOGGER-API-V3"
+  apiKey: "AIzaSyAVpjfcHOJTwGbWwMdEqM-8nedeV2L6qNU"
 }
 
 var postsOrPages = ["pages", "posts"],
